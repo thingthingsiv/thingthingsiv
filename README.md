@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ThingThing</h1>
+<h1 align="center">Hey, I'm ThingThing</h1>
 
 <p align="center">
   <b>Automation QA Engineer | Test Automation Specialist | DevOps Learner</b>
