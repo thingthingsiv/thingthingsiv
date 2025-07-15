@@ -8,8 +8,11 @@
 
 - 🤖 Working with: <strong>Appium, Robot Framework, Selenium, Playwright</strong>  
 - 💻 Skilled in: <strong>Python, Java</strong>  
-- 🚀 Learning: <strong>Docker, Jenkins, Linux, Kubernetes</strong>  
+- 🚀 Learning: <strong>Docker, Jenkins, Linux, Kubernetes</strong>
+- 📎 Portfolio: <a href="https://thingthingsiv.github.io/my_portfolio/"></a>
 - 📬 Reach me: <a href="mailto:sivthingthing@gmail.com">sivthingthing@gmail.com</a>
+
+
 
 ---
 
